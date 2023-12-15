@@ -21,6 +21,14 @@
       <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=Android&logoColor=white">
       </div>
 </div>
+<div align= "center"> 
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> 
+    <div align= "center"> 
+        <img src="https://github-readme-stats.vercel.app/api?username=ajeng518&bg_color=180,000000,&title_color=000000&text_color=000000"/> 
+        <img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=yaj518"/>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajeng518&layout=compact&bg_color=180,000000,&title_color=000000&text_color=000000"/>
+    </div> 
+</div>
 <div align= "center">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2> <br> 
     <div align= "center"> 
@@ -39,14 +47,7 @@
 [![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=li-yo&theme=default)](https://li-yo.tistory.com/) -->
 </div><br>
 
-<div align= "center"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> 
-    <div align= "center"> 
-        <img src="https://github-readme-stats.vercel.app/api?username=ajeng518&bg_color=180,000000,&title_color=000000&text_color=000000"/> 
-        <img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=yaj518"/>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajeng518&layout=compact&bg_color=180,000000,&title_color=000000&text_color=000000"/>
-    </div> 
-</div>
+
 <div align= "center">
     <img src="https://capsule-render.vercel.app/api?section=footer&type=waving&color=auto&height=120&text=&animation=&fontColor=000000&fontSize=40" />
 </div>
